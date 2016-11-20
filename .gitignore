@@ -1,0 +1,8 @@
+javacloudantworkschedbp/.gitignore
+bin
+.project
+.settings
+.apt_generated
+.classpath
+.factorypath
+target

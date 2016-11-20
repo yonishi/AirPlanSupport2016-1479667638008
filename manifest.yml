@@ -1,0 +1,11 @@
+applications:
+- path: javaCloudantWorkloadSchedulerApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: AirPlanSupport2016
+  host: AirPlanSupport2016
+  disk_quota: 1024M
+  services:
+  - AirPlanSupport2016-cloudantNoSQLDB
+  - AirPlanSupport2016-WorkloadScheduler
