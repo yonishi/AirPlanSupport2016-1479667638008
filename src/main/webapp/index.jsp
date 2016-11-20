@@ -161,9 +161,7 @@ body {
 </head>
 
 <body>
- <h1>When you have a question about AirPlan, please contact to this address</h1>
- <h2>e35796*jp.ibm.com</h2>
-<h2>*→＠</h2>
+
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="navbar-inner">
             <div class="container-fluid">
@@ -196,8 +194,9 @@ body {
 
         <!-- Main hero unit for a primary marketing message or call to action -->
         <div class="hero-unit">
-            <h1>Ye olde Beer shop</h1>
-            <p>Showing the finest selection of beers in the world.</p>
+             <h1>When you have a question about AirPlan, please contact to this address</h1>
+ <h2>e35796*jp.ibm.com</h2>
+<h2>*→＠</h2>
         </div>
 
         <!-- Example row of columns -->
